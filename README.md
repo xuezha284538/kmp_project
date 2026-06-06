@@ -186,13 +186,7 @@ void show(int a[], int len);
  * @param a next数组
  * @param len 模式串长度
  */
-void show1(int a[], int len);
 
-/**
- * @brief 初始化整型数组为0
- * @param s 整型数组
- * @param len 数组长度
- */
 void init(int s[], int len);
 ```
 
