@@ -1,0 +1,19 @@
+# 编译产物
+*.o
+*.obj
+*.out
+*.exe
+*.elf
+*.hex
+*.bin
+*.a
+*.so
+
+# 临时/测试文件
+a.out
+a.txt
+*.log
+
+# 系统文件
+.DS_Store
+Thumbs.db
